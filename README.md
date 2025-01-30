@@ -86,4 +86,4 @@ The partial memorization function measures how closely a model's output matches 
 
 
 ## License
-This repository is provided under the [MIT License](#) (or whichever license applies). Please refer to the `LICENSE` file for details.
+This repository is provided under the [MIT License](./LICENSE) (or whichever license applies). Please refer to the `LICENSE` file for details.
