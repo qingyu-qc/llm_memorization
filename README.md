@@ -24,11 +24,11 @@ For PMCLLaMa, the following datasets are available:
 - [fine-tuning dataset](https://huggingface.co/datasets/axiong/pmc_llama_instructions).
 
 ## Pre-processed datasets
-We provide multiple links to pre-processed versions datasets for convenience:
+We provide multiple links to pre-processed versions datasets for convenience (Due to copyright restrictions, only PMC IDs for the original dataset are available.):
 
 ### Meditron
 
-1. Initial pre-processed datasets: [Access here](https://yaleedu-my.sharepoint.com/:f:/r/personal/anran_li_yale_edu/Documents/Medical%20LLMs%20Memorization/Experiment%20results/Pre-train/Initial_datasets?csf=1&web=1&e=abtPU6)
+1. Initial pre-processed datasets: [Access here](https://yaleedu-my.sharepoint.com/:f:/r/personal/anran_li_yale_edu/Documents/Medical%20LLMs%20Memorization/Experiment%20results/Pre-train/Meditron_initial_datasets?csf=1&web=1&e=a90VvS)
 
 2. Processed datasets: [Access here](https://yaleedu-my.sharepoint.com/:f:/r/personal/anran_li_yale_edu/Documents/Medical%20LLMs%20Memorization/Experiment%20results/Pre-train/Meditron_split_dataset?csf=1&web=1&e=cxprDj)
 
@@ -36,9 +36,12 @@ We provide multiple links to pre-processed versions datasets for convenience:
 
 
 ### PMCLLaMA
-1. Prcessed fine-tuned datasets: [Access here](https://yaleedu-my.sharepoint.com/:f:/r/personal/anran_li_yale_edu/Documents/Medical%20LLMs%20Memorization/Experiment%20results/Fine-tune/sampled_dataset/PMCLLaMA_finetuned_dataset?csf=1&web=1&e=vpR1FJ)
 
-2. Processed pre-trained datasets: [Access here](https://yaleedu-my.sharepoint.com/:f:/r/personal/anran_li_yale_edu/Documents/Medical%20LLMs%20Memorization/Experiment%20results/Pre-train/PMCLLaMA_split_dataset?csf=1&web=1&e=dplsms)
+1. Initial pre-processed datasets: [Access here](https://yaleedu-my.sharepoint.com/:f:/r/personal/anran_li_yale_edu/Documents/Medical%20LLMs%20Memorization/Experiment%20results/Pre-train/PMCLLama_initial_datasets?csf=1&web=1&e=ydTvQA)
+
+2. Prcessed fine-tuned datasets: [Access here](https://yaleedu-my.sharepoint.com/:f:/r/personal/anran_li_yale_edu/Documents/Medical%20LLMs%20Memorization/Experiment%20results/Fine-tune/sampled_dataset/PMCLLaMA_finetuned_dataset?csf=1&web=1&e=vpR1FJ)
+
+3. Processed pre-trained datasets: [Access here](https://yaleedu-my.sharepoint.com/:f:/r/personal/anran_li_yale_edu/Documents/Medical%20LLMs%20Memorization/Experiment%20results/Pre-train/PMCLLaMA_split_dataset?csf=1&web=1&e=dplsms)
 
 ## Dataset Processing
 We use two main strategies for sampling the text data:
