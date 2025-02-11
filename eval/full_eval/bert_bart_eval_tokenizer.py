@@ -1,7 +1,9 @@
 import json
 import evaluate
 import numpy as np
-from BARTScore.bart_score import BARTScorer
+import sys
+sys.path.append('./')
+from BARTScore import BARTScorer
 from tqdm import tqdm
 from transformers import AutoTokenizer
 
