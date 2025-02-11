@@ -67,11 +67,6 @@ After running model inference, the generated responses are stored in a dedicated
 4. BERTScore
 5. BARTScore
 
-### BERT and BART evalution metric
-To evaluate using BERTScore and BARTScore, you will need to:
-1. Clone the [BARTScore repository](https://github.com/neulab/BARTScore) into your current directory.
-2. Download the `bart_score.pth` model file from [BART checkpoint](https://drive.google.com/u/0/uc?id=1_7JfF7KOInb7ZrxKHIigTMR4ChVET01m&export=download) for BART metrics evaluation. 
-
 
 ### Valid Length Evaluation
 We add two kinds of evaluation here: evaluating first-K tokens and first-K sentences.
