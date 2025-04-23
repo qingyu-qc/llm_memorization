@@ -53,6 +53,9 @@ We use two main strategies for sampling the text data:
    - Script: [random_dataset.py](./Meditron/random_dataset.py)
    - This script chooses a random position within each document to begin sampling. 
 
+## Model Finetune
+For model finetune, please refer to [finetune.py](Model_finetune/finetune.py)
+
 ## Model Inference
 We leverage  [vLLM](https://github.com/vllm-project/vllm) to speed up the inference. For details, please refer to [vllm_inference.py](./Meditron/vllm_inference.py).
 
