@@ -73,6 +73,15 @@ The partial memorization function measures how closely a model's output matches 
 This repository is provided under the [MIT License](./LICENSE) (or whichever license applies). Please refer to the `LICENSE` file for details.
 
 
+## Citation
+```
+@article{li2025memorization,
+  title={Memorization in Large Language Models in Medicine: Prevalence, Characteristics, and Implications},
+  author={Li, Anran and Qian, Lingfei and Du, Mengmeng and Yin, Yu and Hu, Yan and Sun, Zihao and Fu, Yihang and Kim, Hyunjae and Stutz, Erica and Ai, Xuguang, Qianqian Xie, Rui Zhu, Jimin Huang, Yifan Yang, Siru Liu, YihChung Tham, Lucila Ohno-Machado, Hyunghoon Cho, Zhiyong Lu, Hua Xu, Qingyu Chen},
+  journal={arXiv preprint arXiv:2509.08604},
+  year={2025}
+}
+```
 
 
 
