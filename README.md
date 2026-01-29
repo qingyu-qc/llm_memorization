@@ -74,6 +74,7 @@ This repository is provided under the [MIT License](./LICENSE) (or whichever lic
 
 
 ## Citation
+If this repository is useful for your work, please cite: 
 ```
 @article{li2025memorization,
   title={Memorization in Large Language Models in Medicine: Prevalence, Characteristics, and Implications},
@@ -82,6 +83,7 @@ This repository is provided under the [MIT License](./LICENSE) (or whichever lic
   year={2025}
 }
 ```
+
 
 
 
